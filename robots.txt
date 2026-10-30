@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victor23231.github.io/software-tpv-tiendas-ropa-moda/sitemap.xml
